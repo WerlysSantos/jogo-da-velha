@@ -27,7 +27,7 @@ JavaScript (puro / Vanilla JS)
 ### 1. Clone este repositório completo, index + pasta src:
 
 ```bash
-git clone https://github.com/WerlysSantos/jogo-da-velha-tic-tac-toe-
+git clone https://github.com/WerlysSantos/jogo-da-velha
 ```
 ### 2. Abra o arquivo index.html no seu navegador.
 
